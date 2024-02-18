@@ -23,7 +23,7 @@ import com.formacionbdi.springboot.app.commons.models.entity.Producto;
 import com.formacionbdi.springboot.app.productos.models.service.IProductoService;
 
 @RestController
-@RequestMapping("/producto") //localhost:8080/usuarios
+//@RequestMapping("/producto") //localhost:8080/producto
 @CrossOrigin
 @Controller
 public class ProductoController {
