@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.formacionbdi.springboot.app.productos</groupId>
 	<artifactId>springboot-servicio-productos</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>springboot-servicio-productos</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>com.formacionbdi.springboot.app.commons</groupId>
 			<artifactId>springboot-servicio-commons</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
